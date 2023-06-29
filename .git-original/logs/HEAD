@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 b8584c778b762021461463a2e889c0cd68e3ea75 vinsonf <vfernandez@shift3tech.com> 1630469068 -0700	commit (initial): server
+b8584c778b762021461463a2e889c0cd68e3ea75 063056c716c458ec1b1499d1817c5b2fd7c38183 vinsonf <vfernandez@shift3tech.com> 1630469366 -0700	commit: test
+063056c716c458ec1b1499d1817c5b2fd7c38183 063056c716c458ec1b1499d1817c5b2fd7c38183 vinsonf <vfernandez@shift3tech.com> 1630469431 -0700	checkout: moving from master to simple-ts-setup
+063056c716c458ec1b1499d1817c5b2fd7c38183 a36a371e7de37a7ebc06ee28aed6214523f6b062 vinsonf <vfernandez@shift3tech.com> 1630469541 -0700	commit: ts server
+a36a371e7de37a7ebc06ee28aed6214523f6b062 063056c716c458ec1b1499d1817c5b2fd7c38183 vinsonf <vfernandez@shift3tech.com> 1630469649 -0700	checkout: moving from simple-ts-setup to master
+063056c716c458ec1b1499d1817c5b2fd7c38183 063056c716c458ec1b1499d1817c5b2fd7c38183 vinsonf <vfernandez@shift3tech.com> 1630472207 -0700	checkout: moving from master to socket-io
+063056c716c458ec1b1499d1817c5b2fd7c38183 063056c716c458ec1b1499d1817c5b2fd7c38183 vinsonf <vfernandez@shift3tech.com> 1630597145 -0700	checkout: moving from socket-io to master
+063056c716c458ec1b1499d1817c5b2fd7c38183 063056c716c458ec1b1499d1817c5b2fd7c38183 vinsonf <vfernandez@shift3tech.com> 1630597162 -0700	checkout: moving from master to socket-io
+063056c716c458ec1b1499d1817c5b2fd7c38183 063056c716c458ec1b1499d1817c5b2fd7c38183 vinsonf <vfernandez@shift3tech.com> 1630597175 -0700	checkout: moving from socket-io to express
